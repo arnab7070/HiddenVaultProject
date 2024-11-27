@@ -9,6 +9,8 @@ HiddenVault is a C++ project designed to create a password-protected folder, "Hi
 - Ability to lock and unlock the vault securely.
 - Customizable folder icons (via `desktop.ini`).
 
+### Watch the demo video
+[![Click Here](https://img.youtube.com/vi/mSnWiCBWjX0/0.jpg)](https://www.youtube.com/watch?v=mSnWiCBWjX0)
 ---
 
 ### **Features**
