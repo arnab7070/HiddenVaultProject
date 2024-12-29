@@ -126,6 +126,9 @@ g++ vault.cpp resources.o -o vault
 
 ---
 
+### **Basic Concept of Hiding a Folder**
+To hide a folder in a pendrive, first make sure to enter in the pendrive integrated CMD. Then, use these commands: E:\>attrib Hidden +H for hidden only, or E:\>attrib Hidden +S +H for hidden and system. To un-hide the folder, use E:\>attrib Hidden -S -H to remove both system and hidden where Hidden is folder name.
+
 ### **Contributors**
 
 - **Arnab Nandi**
